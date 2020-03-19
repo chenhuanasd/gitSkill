@@ -1,2 +1,2 @@
 # gitSkill
-Create new branch quick
+Create new branch quick and b
